@@ -1,0 +1,1 @@
+file shrinkwrap.json is modifed for Appfog's site.
